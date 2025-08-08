@@ -1,0 +1,5 @@
+timestamp,deep sleep stats - milli breaths per minute,deep sleep stats - standard deviation milli breaths per minute,deep sleep stats - signal to noise,light sleep stats - milli breaths per minute,light sleep stats - standard deviation milli breaths per minute,light sleep stats - signal to noise,rem sleep stats - milli breaths per minute,rem sleep stats - standard deviation milli breaths per minute,rem sleep stats - signal to noise,full sleep stats - milli breaths per minute,full sleep stats - standard deviation milli breaths per minute,full sleep stats - signal to noise
+2025-08-01T05:57:30Z,14.2,1.7,7.613,14.2,2.1,6.263,13.0,1.2,4.443,14.2,1.7,7.613
+2025-08-02T07:08:30Z,15.2,1.7,6.515,14.8,2.0,7.504,15.2,0.7,3.34,15.2,1.7,6.515
+2025-08-03T04:41:30Z,17.6,0.7,6.227,16.4,2.2,10.143,-1.0,0.0,0.0,17.6,0.7,6.227
+2025-08-03T06:54:30Z,17.6,0.7,6.227,16.4,2.2,12.475,15.8,1.1,2.699,17.6,0.7,6.227

@@ -1,0 +1,5 @@
+timestamp,average percentage,lower bound percentage,upper bound percentage,baseline percentage,standard deviation percentage
+2025-05-14T00:00:00Z,94.8,93.7,95.9,94.3,0.7
+2025-05-15T00:00:00Z,95.0,94.6,95.5,94.4,0.7
+2025-05-21T00:00:00Z,93.5,90.5,96.4,94.3,0.7
+2025-05-23T00:00:00Z,94.7,92.7,96.6,94.3,0.7

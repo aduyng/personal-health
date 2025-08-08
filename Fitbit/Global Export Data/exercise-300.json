@@ -1,0 +1,390 @@
+[{
+  "logId" : 71902221886,
+  "activityName" : "Run",
+  "activityTypeId" : 90009,
+  "activityLevel" : [{
+    "minutes" : 1328,
+    "name" : "sedentary"
+  },{
+    "minutes" : 113,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 135,
+  "calories" : 157,
+  "distance" : 1.244359,
+  "distanceUnit" : "Kilometer",
+  "duration" : 86474000,
+  "activeDuration" : 86474000,
+  "steps" : 1688,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Google Pixel Watch 3",
+    "id" : "318698437",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["CALORIES","GPS","ELEVATION","HEARTRATE","DISTANCE","PACE","STEPS","VO2_MAX"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "tcxLink" : "https://www.fitbit.com/activities/exercise/71902221886?export=tcx",
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 105,
+    "minutes" : 1438,
+    "caloriesOut" : 2006.7056300000002
+  },{
+    "name" : "Fat Burn",
+    "min" : 105,
+    "max" : 129,
+    "minutes" : 3,
+    "caloriesOut" : 19.43592
+  },{
+    "name" : "Cardio",
+    "min" : 129,
+    "max" : 159,
+    "minutes" : 0,
+    "caloriesOut" : 0.0
+  },{
+    "name" : "Peak",
+    "min" : 159,
+    "max" : 220,
+    "minutes" : 0,
+    "caloriesOut" : 0.0
+  }],
+  "activeZoneMinutes" : {
+    "totalMinutes" : 3,
+    "minutesInHeartRateZones" : [{
+      "minutes" : 3,
+      "zoneName" : "Fat Burn",
+      "order" : 1,
+      "type" : "FAT_BURN",
+      "minuteMultiplier" : 1
+    },{
+      "minutes" : 0,
+      "zoneName" : "Peak",
+      "order" : 3,
+      "type" : "PEAK",
+      "minuteMultiplier" : 2
+    },{
+      "minutes" : 0,
+      "zoneName" : "Out of Range",
+      "order" : 0,
+      "type" : "OUT_OF_ZONE",
+      "minuteMultiplier" : 0
+    },{
+      "minutes" : 0,
+      "zoneName" : "Cardio",
+      "order" : 2,
+      "type" : "CARDIO",
+      "minuteMultiplier" : 2
+    }]
+  },
+  "speed" : 0.0025894488516779606,
+  "pace" : 1390257.2347266881,
+  "lastModified" : "08/01/25 05:58:10",
+  "startTime" : "07/31/25 00:56:27",
+  "originalStartTime" : "07/31/25 00:56:27",
+  "originalDuration" : 86474000,
+  "elevationGain" : 0.0,
+  "hasGps" : true,
+  "shouldFetchDetails" : true,
+  "hasActiveZoneMinutes" : true
+},{
+  "logId" : 71982100707,
+  "activityName" : "Workout",
+  "activityTypeId" : 3000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 3,
+    "name" : "fairly"
+  },{
+    "minutes" : 31,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 123,
+  "calories" : 259,
+  "duration" : 2028000,
+  "activeDuration" : 2026000,
+  "steps" : 0,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Google Pixel Watch 3",
+    "id" : "318698437",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["CALORIES","HEARTRATE","STEPS"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 108,
+    "minutes" : 0,
+    "caloriesOut" : 0.0
+  },{
+    "name" : "Fat Burn",
+    "min" : 108,
+    "max" : 131,
+    "minutes" : 32,
+    "caloriesOut" : 233.50370999999998
+  },{
+    "name" : "Cardio",
+    "min" : 131,
+    "max" : 160,
+    "minutes" : 2,
+    "caloriesOut" : 19.43224
+  },{
+    "name" : "Peak",
+    "min" : 160,
+    "max" : 220,
+    "minutes" : 0,
+    "caloriesOut" : 0.0
+  }],
+  "activeZoneMinutes" : {
+    "totalMinutes" : 36,
+    "minutesInHeartRateZones" : [{
+      "minutes" : 32,
+      "zoneName" : "Fat Burn",
+      "order" : 1,
+      "type" : "FAT_BURN",
+      "minuteMultiplier" : 1
+    },{
+      "minutes" : 0,
+      "zoneName" : "Peak",
+      "order" : 3,
+      "type" : "PEAK",
+      "minuteMultiplier" : 2
+    },{
+      "minutes" : 0,
+      "zoneName" : "Out of Range",
+      "order" : 0,
+      "type" : "OUT_OF_ZONE",
+      "minuteMultiplier" : 0
+    },{
+      "minutes" : 2,
+      "zoneName" : "Cardio",
+      "order" : 2,
+      "type" : "CARDIO",
+      "minuteMultiplier" : 2
+    }]
+  },
+  "lastModified" : "08/05/25 00:34:42",
+  "startTime" : "08/05/25 00:00:35",
+  "originalStartTime" : "08/05/25 00:00:35",
+  "originalDuration" : 2028000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : true,
+  "hasActiveZoneMinutes" : true
+},{
+  "logId" : 72006853954,
+  "activityName" : "Workout",
+  "activityTypeId" : 3000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 7,
+    "name" : "fairly"
+  },{
+    "minutes" : 19,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 123,
+  "calories" : 207,
+  "duration" : 1667000,
+  "activeDuration" : 1664000,
+  "steps" : 0,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Google Pixel Watch 3",
+    "id" : "318698437",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["CALORIES","HEARTRATE","STEPS"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 110,
+    "minutes" : 1,
+    "caloriesOut" : 8.448800000000034
+  },{
+    "name" : "Fat Burn",
+    "min" : 110,
+    "max" : 132,
+    "minutes" : 21,
+    "caloriesOut" : 146.37545999999998
+  },{
+    "name" : "Cardio",
+    "min" : 132,
+    "max" : 161,
+    "minutes" : 5,
+    "caloriesOut" : 46.89084
+  },{
+    "name" : "Peak",
+    "min" : 161,
+    "max" : 220,
+    "minutes" : 0,
+    "caloriesOut" : 0.0
+  }],
+  "activeZoneMinutes" : {
+    "totalMinutes" : 31,
+    "minutesInHeartRateZones" : [{
+      "minutes" : 21,
+      "zoneName" : "Fat Burn",
+      "order" : 1,
+      "type" : "FAT_BURN",
+      "minuteMultiplier" : 1
+    },{
+      "minutes" : 0,
+      "zoneName" : "Peak",
+      "order" : 3,
+      "type" : "PEAK",
+      "minuteMultiplier" : 2
+    },{
+      "minutes" : 0,
+      "zoneName" : "Out of Range",
+      "order" : 0,
+      "type" : "OUT_OF_ZONE",
+      "minuteMultiplier" : 0
+    },{
+      "minutes" : 5,
+      "zoneName" : "Cardio",
+      "order" : 2,
+      "type" : "CARDIO",
+      "minuteMultiplier" : 2
+    }]
+  },
+  "lastModified" : "08/06/25 00:35:29",
+  "startTime" : "08/06/25 00:07:30",
+  "originalStartTime" : "08/06/25 00:07:30",
+  "originalDuration" : 1667000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : true,
+  "hasActiveZoneMinutes" : true
+},{
+  "logId" : 72010933581,
+  "activityName" : "Workout",
+  "activityTypeId" : 3000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 5,
+    "name" : "fairly"
+  },{
+    "minutes" : 31,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 127,
+  "calories" : 295,
+  "duration" : 2140000,
+  "activeDuration" : 2139000,
+  "steps" : 0,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Google Pixel Watch 3",
+    "id" : "318698437",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["CALORIES","HEARTRATE","STEPS"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 109,
+    "minutes" : 0,
+    "caloriesOut" : 0.0
+  },{
+    "name" : "Fat Burn",
+    "min" : 109,
+    "max" : 132,
+    "minutes" : 25,
+    "caloriesOut" : 181.80570000000003
+  },{
+    "name" : "Cardio",
+    "min" : 132,
+    "max" : 160,
+    "minutes" : 11,
+    "caloriesOut" : 104.66963999999999
+  },{
+    "name" : "Peak",
+    "min" : 160,
+    "max" : 220,
+    "minutes" : 0,
+    "caloriesOut" : 0.0
+  }],
+  "activeZoneMinutes" : {
+    "totalMinutes" : 47,
+    "minutesInHeartRateZones" : [{
+      "minutes" : 25,
+      "zoneName" : "Fat Burn",
+      "order" : 1,
+      "type" : "FAT_BURN",
+      "minuteMultiplier" : 1
+    },{
+      "minutes" : 0,
+      "zoneName" : "Peak",
+      "order" : 3,
+      "type" : "PEAK",
+      "minuteMultiplier" : 2
+    },{
+      "minutes" : 0,
+      "zoneName" : "Out of Range",
+      "order" : 0,
+      "type" : "OUT_OF_ZONE",
+      "minuteMultiplier" : 0
+    },{
+      "minutes" : 11,
+      "zoneName" : "Cardio",
+      "order" : 2,
+      "type" : "CARDIO",
+      "minuteMultiplier" : 2
+    }]
+  },
+  "lastModified" : "08/07/25 00:40:13",
+  "startTime" : "08/06/25 23:59:30",
+  "originalStartTime" : "08/06/25 23:59:30",
+  "originalDuration" : 2140000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : true,
+  "hasActiveZoneMinutes" : true
+}]

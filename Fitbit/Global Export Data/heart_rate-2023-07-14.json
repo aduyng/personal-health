@@ -1,0 +1,91 @@
+[{
+  "dateTime" : "07/14/23 04:03:39",
+  "value" : {
+    "bpm" : 115,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/14/23 04:03:44",
+  "value" : {
+    "bpm" : 125,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/14/23 04:03:49",
+  "value" : {
+    "bpm" : 122,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/14/23 04:03:54",
+  "value" : {
+    "bpm" : 116,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/14/23 04:03:59",
+  "value" : {
+    "bpm" : 111,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/14/23 04:04:04",
+  "value" : {
+    "bpm" : 101,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/14/23 04:04:09",
+  "value" : {
+    "bpm" : 103,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/14/23 04:04:14",
+  "value" : {
+    "bpm" : 96,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/14/23 04:04:19",
+  "value" : {
+    "bpm" : 100,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/14/23 04:04:24",
+  "value" : {
+    "bpm" : 97,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/14/23 04:04:29",
+  "value" : {
+    "bpm" : 92,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/14/23 04:04:34",
+  "value" : {
+    "bpm" : 92,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/14/23 14:52:56",
+  "value" : {
+    "bpm" : 83,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/14/23 14:53:11",
+  "value" : {
+    "bpm" : 85,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/14/23 14:53:16",
+  "value" : {
+    "bpm" : 84,
+    "confidence" : 0
+  }
+}]

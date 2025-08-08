@@ -1,0 +1,6 @@
+"provider_id","sku","product_description","product_recurrence","start_date","valid_until","user_cancellation_date","trial_period","fatal_renewal_error","grant_bundle"
+"google","com.fitbit.prod.annual.premium_ft6m_6","Annual Premium 6 Months Free Trial (Pixel Watch)","ANNUAL","2022-10-20T01:46:42Z","2023-04-21T01:46:27Z","2023-04-03T13:18:35Z","true","false","premium-ft6m_6"
+"google","fitbit.annual.premium_ft6m_10","Annual Premium 6 Months Free Trial (Pixel Watch 2)","ANNUAL","2023-11-08T07:12:10Z","2024-05-09T07:10:03Z","2024-05-01T14:02:35Z","true","false","premium-ft6m-10"
+"googlestore","GSTORE_FBP_M","Premium subscription purchased through gStore","MONTHLY","2024-08-13T18:23:52Z","2024-09-03T15:49:11Z","2024-09-03T15:49:11Z","false","false","eos"
+"google","fitbit.annual.premium_ft6m_15","Annual Premium 6 Months Free Trial (Pixel Watch 3)","ANNUAL","2024-09-10T20:32:16Z","2025-03-12T20:31:53Z","2025-03-05T14:15:45Z","true","false","premium_ft6m_15"
+"google","fitbit.annual.premium_ft6m_12","Annual Premium Trial with Google Pixel phone Offer","ANNUAL","2025-04-11T17:06:37Z","2025-10-11T17:06:33Z",,"true","false","premium-ft6m-12"

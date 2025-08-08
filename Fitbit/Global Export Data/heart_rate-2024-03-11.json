@@ -1,0 +1,19 @@
+[{
+  "dateTime" : "03/11/24 00:31:50",
+  "value" : {
+    "bpm" : 31,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "03/11/24 00:31:55",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "03/11/24 00:32:00",
+  "value" : {
+    "bpm" : 83,
+    "confidence" : 2
+  }
+}]
